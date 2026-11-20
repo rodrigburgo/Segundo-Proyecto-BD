@@ -1,0 +1,5 @@
+proveedor_id,producto_id,costo,condiciones
+1,1,3200,Pago a 15 días
+2,1,3100,Pago de contado
+1,2,1800,Entrega semanal
+2,3,2200,Entrega diaria

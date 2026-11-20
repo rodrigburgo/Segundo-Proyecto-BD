@@ -1,0 +1,5 @@
+nombre,descripcion,categoria_id,marca,unidad,precio_compra,precio_venta,minimo,perecedero,descontinuado
+Leche entera,Bolsa de un litro,1,Prado,unidad,3200,4200,5,True,False
+Arroz,Bolsa de 500 g,5,Campo,unidad,1800,2500,4,False,False
+Tomate,Tomate a granel,2,Huerta,kg,2200,3800,3,True,False
+Jabón,Barra de 250 g,4,Limpio,unidad,1600,2200,2,False,True

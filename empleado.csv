@@ -1,0 +1,5 @@
+nombre,documento,direccion,telefono,correo,cargo,area_id,usuario
+Ana Pérez,9001,Calle 1,3000000001,demo_ana@example.org,Cajera,1,demo_ana
+Luis Ríos,9002,Calle 2,3000000002,demo_luis@example.org,Auxiliar,2,demo_luis
+Luz Díaz,9003,Calle 3,3000000003,demo_luz@example.org,Administradora,3,demo_luz
+Eva León,9004,Calle 4,3000000004,demo_eva@example.org,Asesora,4,demo_eva
